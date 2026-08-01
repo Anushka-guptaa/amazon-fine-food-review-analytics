@@ -1,0 +1,9 @@
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- NLTK
+- VADER
+- Hugging Face Transformers
+- RoBERTa
